@@ -1,0 +1,20 @@
+{
+  "sach": [
+    {
+      "tenSach": "Long ",
+      "img": "https://i.pinimg.com/564x/a5/31/87/a53187d4d8d8c6e0e03a8b05d197edb3.jpg",
+      "soLuong": "098765432ád1",
+      "gia": "098765432ád1",
+      "tacGia": "098765432ád1",
+      "id": "1"
+    },
+    {
+      "tenSach": "Long cu longád",
+      "img": "https://i.pinimg.com/564x/a5/31/87/a53187d4d8d8c6e0e03a8b05d197edb3.jpg",
+      "soLuong": "098765432ád1",
+      "gia": "098765432ád1",
+      "tacGia": "098765432ád1",
+      "id": "2"
+    }
+  ]
+}
